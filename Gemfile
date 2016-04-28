@@ -45,9 +45,6 @@ group :development, :test do
   # Testing framework
   gem 'rspec-rails', '~> 3.0'
 
-  # Simulating how a real user would interact with your app
-  gem 'capybara'
-
   # Testing fixtures
   gem 'factory_girl_rails', '~> 4.0'
 
